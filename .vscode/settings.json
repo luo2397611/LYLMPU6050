@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "mpu6050.h": "c",
+        "stdint.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "dmpkey.h": "c",
+        "usart.h": "c",
+        "inv_mpu_dmp_motion_driver.h": "c",
+        "inv_mpu.h": "c",
+        "main.h": "c",
+        "stm32f1xx_it.h": "c"
+    }
+}
